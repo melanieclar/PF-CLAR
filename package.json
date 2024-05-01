@@ -1,6 +1,6 @@
 {
   "name": "hola-tokyo",
-  "version": ".0.0",
+  "version": "2.0.0",
   "description": "proyecto desarrollo web coderhouse",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melanieclar/PF-CLAR"
+    "url": "git+https://github.com/melanieclar/PF-CLAR.git"
   },
   "author": "Melanie Karin Clar",
   "license": "ISC",
